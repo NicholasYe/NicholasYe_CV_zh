@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: 叶霆振's CV
+title: 叶霆振的简历
 email:
   url: mailto:tingzhen.ye@foxmail.com
   text: tingzhen.ye@foxmail.com
