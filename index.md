@@ -89,7 +89,7 @@ Supported arguments:
 ## 技能兴趣
 
 - 编程: C++; Python; Linux; Matlab
-- 微控制器: Arduino; Stm32
+- 单片机: Arduino; Stm32
 - 电力电子: Altium Designer; Simulink; Inventor
 - 工具: Markdown; Github/Git
 
